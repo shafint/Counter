@@ -1,0 +1,37 @@
+*{
+    margin:0;
+    padding:0;
+    list-style:none;
+    text-decoration:none;
+    font-family: sans-serif;
+}
+body{
+    display:flex;
+    justify-content: space-around;
+    align-items: center;
+    min-height: 100vh;
+    background:#30356E;
+}
+.items {
+    width: 200px;
+    height: 156px;
+}
+
+.items i {
+    display: block;
+    text-align: center;
+    font-size: 55px;
+    color: #fff;
+}
+
+.items div {
+    text-align: center;
+    font-size: 53px;
+    color: rgb(214 201 13);
+}
+
+.items span {
+    color: #fff;
+    display: block;
+    text-align: center;
+}
